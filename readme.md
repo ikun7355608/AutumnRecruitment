@@ -8,7 +8,7 @@ CPP软开、QT客户端、嵌入式开发
 
 ### markdown阅读器
 
-Typora阅读效果最佳。
+Typora阅读效果最佳，VScode尚可。（github阅读体验没那么友好，其他markdown编辑器未尝试）
 
 ### 相关说明
 
@@ -113,3 +113,6 @@ Typora阅读效果最佳。
 |           <strong style="color:red;">东软</strong>           | EHR数据迁移  | <strong style="color:red;">11.01<br />邮件邀请<br />鸽</strong> |                                                              |                                                              |                                                              |                                                              |                                                        |
 |         <strong style="color:red;">鼎信通讯</strong>         |              | <strong style="color:red;">11.05<br />邮件邀请<br />拒</strong> |                                                              |                                                              |                                                              |                                                              |                           90                           |
 |         <strong style="color:red;">曹操出行</strong>         |   JAVA后端   | <strong style="color:red;">11.27<br />笔试<br />测评<br />鸽</strong> |                                                              |                                                              |                                                              |                                                              |                                                        |
+
+-----------------------------
+最后，祝您秋招能够收到自己满意的offer。
